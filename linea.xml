@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<matematicos>
+<matematico>
+  <apellido>Hamilton</apellido>
+  <nombre>William Rowan</nombre>
+  <nacimiento>1805</nacimiento>
+  <fallecimiento>1865</fallecimiento>
+  <imagen>William_Rowan_Hamilton.jpg</imagen>
+  <biografia>William Rowan Hamilton (Dublín, 4 de agosto de 1805-ibídem, 2 de septiembre de 1865) fue un matemático, físico, y astrónomo irlandés, que hizo importantes contribuciones al desarrollo de la óptica, la dinámica, y el álgebra. Su descubrimiento del cuaternión, junto con su sistematización de la dinámica, son sus trabajos más conocidos. Este último trabajo sería decisivo en el desarrollo de la mecánica cuántica, donde un concepto fundamental llamado hamiltoniano lleva su nombre.</biografia>
+</matematico>
+<matematico>
+  <apellido>Cauchy</apellido>
+  <nombre>Augustin</nombre>
+  <nacimiento>1789</nacimiento>
+  <fallecimiento>1857</fallecimiento>
+  <imagen>Augustin-Louis_Cauchy.jpg</imagen>
+  <biografia>Cauchy ha sido uno de los matemáticos más prolíficos de todos los tiempos, solo superado por Leonhard Euler, Paul Erdős y Arthur Cayley con cerca de 800 publicaciones y siete trabajos; su investigación cubre el conjunto de áreas matemáticas de la época. Fue pionero en análisis donde se le debe la introducción de las funciones holomorfas, los criterios de convergencia de series y las series de potencias. Sus trabajos sobre permutaciones fueron precursores de la teoría de grupos, contribuyendo de manera medular a su desarrollo. En óptica se le atribuyen trabajos sobre la propagación de ondas.</biografia>
+</matematico>
+<matematico>
+  <apellido>Bessel</apellido>
+  <nombre>Wilhem</nombre>
+  <nacimiento>1784</nacimiento>
+  <fallecimiento>1845</fallecimiento>
+  <imagen>Friedrich_Wilhelm_Bessel.jpeg</imagen>
+  <biografia>Bessel era hijo de una criada y a los 14 años pasó a ser aprendiz en una compañía mercantil de importaciones y exportaciones de Bremen. Ya de joven llegó ser el contable de la misma, y la confianza en su trabajo le llevó a aplicar sus facultades matemáticas a problemas de navegación, concentrando su interés en la astronomía como una salida para determinar la longitud.</biografia>
+</matematico>
+<matematico>
+  <apellido>Gauss</apellido>
+  <nombre>Carl Friedrich</nombre>
+  <nacimiento>1777</nacimiento>
+  <fallecimiento>1855</fallecimiento>
+  <imagen>Carl_Friedrich_Gauss.jpg</imagen>
+  <biografia>Johann Carl Friedrich Gauss (Braunschweig, 30 de abril de 1777-Gotinga, 23 de febrero de 1855) fue un matemático, astrónomo y físico alemán que contribuyó significativamente en muchos ámbitos, incluida la teoría de números, el análisis matemático, la geometría diferencial, la estadística, el álgebra, la geodesia, el magnetismo y la óptica. Considerado ya en vida como Princeps Mathematicorum, príncipe de los matemáticos, Gauss ha tenido una influencia notable en muchos campos de las matemáticas y de la ciencia. Fue de los primeros en extender el concepto de divisibilidad a otros conjuntos además de los números enteros.</biografia>
+</matematico>
+<matematico>
+  <apellido>Euler</apellido>
+  <nombre>Leonhard</nombre>
+  <nacimiento>1707</nacimiento>
+  <fallecimiento>1783</fallecimiento>
+  <imagen>Leonhard_Euler.jpg</imagen>
+  <biografia>Leonhard Paul Euler (Basilea, Suiza; 15 de abril de 1707-San Petersburgo, Imperio ruso; 18 de septiembre de 1783), conocido como Leonhard Euler y también llamado Leonardo Euler en español, fue un matemático y físico suizo. Se trata del principal matemático del siglo xviii y uno de los más grandes y prolíficos de todos los tiempos, muy conocido por el número de Euler (e), número que aparece en muchas fórmulas de cálculo y física.</biografia>
+</matematico>
+<matematico>
+  <apellido>Goldbach</apellido>
+  <nombre>Christian</nombre>
+  <nacimiento>1690</nacimiento>
+  <fallecimiento>1764</fallecimiento>
+  <imagen>Christian_Goldbach.jpg</imagen>
+  <biografia>Christian Goldbach (18 de marzo de 1690 - 20 de noviembre de 1764) fue un matemático prusiano, nacido en Königsberg, Prusia (hoy Kaliningrado, Rusia), hijo de un pastor. Estudió leyes, idiomas y matemáticas. Realizó varios viajes a través de Europa y conoció a varios matemáticos famosos, como Gottfried Leibniz, Leonhard Euler y Daniel Bernoulli. En 1725 se convirtió en historiador y profesor de matemáticas en San Petersburgo. Tres años más tarde se trasladó a Moscú para trabajar para el zar Pedro II de Rusia</biografia>
+</matematico>
+<matematico>
+  <apellido>Babbage</apellido>
+  <nombre>Charles</nombre>
+  <nacimiento>1792</nacimiento>
+  <fallecimiento>1892</fallecimiento>
+  <imagen>CharlesBabbage.jpg</imagen>
+  <biografia>Charles Babbage fue un matemático y científico de la computación británica. Diseñó y desarrolló una calculadora mecánica capaz de calcular tablas de funciones numéricas por el método de diferencias. También diseñó, (pero nunca construyó), la analítica para ejecutar programas de tabulación o computación; por estos inventos se le considera como una de las primeras personas en concebir la idea de lo que hoy llamaríamos una computadora, por lo que se le considera como "El padre de los ordenadores".</biografia>
+</matematico>
+<matematico>
+  <apellido>Lobachevski</apellido>
+  <nombre>Nikolái</nombre>
+  <nacimiento>1792</nacimiento>
+  <fallecimiento>1856</fallecimiento>
+  <imagen>Lobachevsky.jpg</imagen>
+  <biografia>Lobachevski nació en Rusia el 1 de diciembre de 1792. Estudió en el gymnasium de Kazán desde 1802 hasta 1807. Con sólo 15 años ingresa en la Universidad de Kazán, cursando de 1807 a 1811. Enseñó en dicha Universidad desde 1812, obteniendo el título de catedrático en 1816. Fue elegido en 1827 rector de la Universidad de Kazán, siendo un centro modelo de enseñanza superior de aquel tiempo.</biografia>
+</matematico>
+<matematico>
+  <apellido>Möbius</apellido>
+  <nombre>August</nombre>
+  <nacimiento>1790</nacimiento>
+  <fallecimiento>1868</fallecimiento>
+  <imagen>August_Ferdinand_Mobius.png</imagen>
+  <biografia>Möbius nació en el colegio Schulpforta (Sajonia-Anhalt), donde su padre Johann Heinrich Möbius (1742-1792) enseñaba danza. Su madre, Johanne Katharine Christiane Keil (1756-1820), pertenecía a la séptima generación descendiente del reformador religioso Martín Lutero. Como su esposo falleció cuando su único hijo contaba tres años, fue ella quien lo educó hasta los trece, edad con la cual ingresó en el colegio Schulpforta.</biografia>
+</matematico>
+<matematico>
+  <apellido>Dedekind</apellido>
+  <nombre>Julius Wilhelm Richard</nombre>
+  <nacimiento>1831</nacimiento>
+  <fallecimiento>1916</fallecimiento>
+  <imagen>Dedekind.jpeg</imagen>
+  <biografia>Julius Wilhelm Richard Dedekind (6 de octubre de 1831-12 de febrero de 1916) fue un matemático alemán. Nació en Brunswick, el más joven de los cuatro hijos de Julius Levin Ulrich Dedekind. Vivió con Julia, su hermana soltera, hasta que esta falleció en 1914;. En 1848 entró en el Colegium Carolinum de su ciudad natal, y en 1850, con sólidos conocimientos de matemáticas en la Universidad de Gotinga.</biografia>
+</matematico>
+<matematico>
+  <apellido>Kronecker</apellido>
+  <nombre>Leopold</nombre>
+  <nacimiento>1823</nacimiento>
+  <fallecimiento>1891</fallecimiento>
+  <imagen>Leopold_Kronecker_1865.jpg</imagen>
+  <biografia>Hijo de un comerciante judío, con el tiempo se convertiría al cristianismo. En 1845 se doctoró en la Universidad de Berlín y en ese año escribió su disertación sobre teoría de números, dando una formulación especial a las unidades en ciertos campos numéricos algebraicos. Su tutor fue Peter Gustav Dirichlet. Matemático y lógico, Kronecker defendía que la aritmética y el análisis deben estar fundados en los números enteros prescindiendo de los irracionales e imaginarios. Fue autor de una frase muy conocida entre los matemáticos: "Dios hizo los números enteros; el resto es obra del hombre" (Bell 1986, p.477). Esto puso a Kronecker en contra de varias de las extensiones matemáticas de Georg Cantor. Kronecker fue discípulo y amigo de Ernst Kummer.</biografia>
+</matematico>
+<matematico>
+  <apellido>Hilbert</apellido>
+  <nombre>David</nombre>
+  <nacimiento>1862</nacimiento>
+  <fallecimiento>1943</fallecimiento>
+  <imagen>Hilbert.jpg</imagen>
+  <biografia>David Hilbert (Königsberg, Prusia Oriental; 23 de enero de 1862-Gotinga, Alemania; 14 de febrero de 1943) fue un matemático alemán, reconocido como uno de los más influyentes del siglo xix y principios del XX. Estableció su reputación como gran matemático y científico inventando y desarrollando un gran abanico de ideas, como la teoría de invariantes, la axiomatización de la geometría y la noción de espacio de Hilbert, uno de los fundamentos del análisis funcional. Hilbert y sus estudiantes proporcionaron partes significativas de la infraestructura matemática necesaria para la mecánica cuántica y la relatividad general. Fue uno de los fundadores de la teoría de la demostración, la lógica matemática y la distinción entre matemática y metamatemática. Adoptó y defendió vivamente la teoría de conjuntos y los números transfinitos de Georg Cantor. Un ejemplo famoso de su liderazgo mundial en la matemática es su presentación en 1900 de un conjunto de problemas abiertos que incidió en el curso de gran parte de la investigación matemática del siglo xx.</biografia>
+</matematico>
+<matematico>
+  <apellido>Riemann</apellido>
+  <nombre>Georg Friedrich Bernhard</nombre>
+  <nacimiento>1826</nacimiento>
+  <fallecimiento>1866</fallecimiento>
+  <imagen>Georg_Friedrich_Bernhard_Riemann.jpeg</imagen>
+  <biografia>Georg Friedrich Bernhard Riemann (Breselenz, 17 de septiembre de 1826-Verbania, 20 de julio de 1866) fue un matemático alemán que realizó contribuciones muy importantes al análisis y la geometría diferencial, algunas de las cuales allanaron el camino para el desarrollo más avanzado de la relatividad general. Su nombre está conectado con la función zeta, la hipótesis de Riemann, la integral de Riemann, el lema de Riemann, las variedades de Riemann, las superficies de Riemann y la geometría de Riemann. A través de sus contribuciones pioneras a la geometría diferencial, Riemann sentó las bases de las matemáticas de la relatividad general. Es considerado por muchos como uno de los más grandes matemáticos de todos los tiempos.</biografia>
+</matematico>
+<matematico>
+  <apellido>Galois</apellido>
+  <nombre>Évariste</nombre>
+  <nacimiento>1811</nacimiento>
+  <fallecimiento>1832</fallecimiento>
+  <imagen>Evariste_Galois.jpg</imagen>
+  <biografia>Évariste Galois (Bourg-la-Reine, 25 de octubre de 1811- París, 31 de mayo de 1832) fue un matemático francés. Mientras aún era un adolescente, fue capaz de determinar la condición necesaria y suficiente para que una ecuación algebraica sea resuelta por radicales. Dio solución a un problema abierto mediante el nuevo concepto de grupo de permutaciones. Su trabajo ofreció las bases fundamentales para la teoría que lleva su nombre, una rama principal del álgebra abstracta. Fue el primero en utilizar el término «grupo» en un contexto matemático.</biografia>
+</matematico>
+</matematicos>
